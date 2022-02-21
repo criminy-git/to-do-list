@@ -4,9 +4,15 @@ import './index.css';
 import MyList from './MyList'
 
 const list = [
-  "Clean my room",
-  "Water the plants",
-  "Order groceries"
+  {
+    text: "Clean the house", checked: false
+  },
+  { 
+    text:  "Water the plants", checked: false
+  },
+  {
+    text: "Order groceries", checked: false
+  }
 ];
 
 ReactDOM.render(
