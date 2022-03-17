@@ -1,4 +1,4 @@
-# App to write daily to do list, cross off items and add new items
+# App to write daily to do list
 
 What I learned during this project (February 2022):
 - Working with nested components
